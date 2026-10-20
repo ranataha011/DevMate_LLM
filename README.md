@@ -147,4 +147,4 @@ python tests/manual_test_requests.py --phase 3  # one phase
 
 ## Author
 
-**Shahram Shafiq** - [GitHub](https://github.com/shahramshafiq) | [LinkedIn](https://www.linkedin.com/in/shahramshafiq/)
+**Rana Taha** - [GitHub](https://github.com/ranataha011)
